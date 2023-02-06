@@ -11,18 +11,33 @@ date_format: "%B %d, %Y"
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
+show_related: true           # show the previous and next links after every post
+show_description: true       # show the site description in the sidebar
+show_title: true            # always keep the site title visible
+show_social: true            # show footer
+
+dark_header: false           # always keep the header dark
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.md"}
+  - {file: "aboutme.md", title: "About Me"}
+  - {file: "Professional.md", title: "Professional"
+            subcategories: 
+              -subtitle: "Educational" subhref: "#"}
+  - {file: "blog.md", title: "Blog"}
+  #- {url: "/Ishwor.pdf", title: CV}
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+
+external:             # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ishwor_p_19@hotmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Github, icon: github, url: "https://github.com/ishworpoudyal"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/ishworpoudyal"}
+  - {title: GoogleScholar, icon: google, url: "https://scholar.google.com/citations?user=ztnPz70AAAAJ&hl=en&oi=ao"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/ishwor-poudyal-2a5a2365/"}
+  - {title: ORCID, icon: rss, url: "https://orcid.org/0000-0002-3498-9801"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
