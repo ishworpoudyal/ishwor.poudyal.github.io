@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Professional
-permalink: "/about/"
+permalink: "/professional/"
 mathjax: true
 ---
 
