@@ -1,6 +1,6 @@
 title: "Ishwor Poudyal"
 author: "Ishwor Poudyal"
-description: "© 2019-{{ site.time | date: '%Y' }} Ishwor Poudyal, all rights reserved."
+description: "© 2022-{{ site.time | date: '%Y' }} Ishwor Poudyal, all rights reserved."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
