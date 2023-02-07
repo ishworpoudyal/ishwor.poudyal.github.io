@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional
+title: ""
 permalink: "/professional/"
 mathjax: true
 ---
