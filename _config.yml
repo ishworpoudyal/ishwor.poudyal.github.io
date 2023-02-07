@@ -34,7 +34,7 @@ external:             # shows a footer with social links - for available icons s
   - {title: Twitter, icon: twitter, url: "https://twitter.com/ishworpoudyal"}
   - {title: GoogleScholar, icon: google, url: "https://scholar.google.com/citations?user=ztnPz70AAAAJ&hl=en&oi=ao"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/ishwor-poudyal-2a5a2365/"}
-  - {title: ORCID, icon: rss, url: "https://orcid.org/0000-0002-3498-9801"}
+  - {title: ORCID, icon: rocket, url: "https://orcid.org/0000-0002-3498-9801"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
