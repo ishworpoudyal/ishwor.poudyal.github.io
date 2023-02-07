@@ -24,6 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {file: "aboutme.md", title: "About Me"}
   - {file: "Professional.md", title: "Professional"}
+  - {file: "test.md", title: "Professional/Test"}
   - {file: "blog.md", title: "Blog"}
   #- {url: "/Ishwor.pdf", title: CV}
   
