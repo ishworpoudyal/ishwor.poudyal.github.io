@@ -32,9 +32,22 @@
 
 {% if site.external %}
 <footer>
-  <div>{{ site.description | default: site.title }}</div>
+  #<div>{{ site.description | default: site.title }}</div>
+   © 2022-{{ site.time | date: '%Y' }} Ishwor Poudyal, all rights reserved.
   {% include menu.html menu=site.external %}
 </footer>
 {% endif %}
+  
+  <body>
+			{% include nav-bar.html %}
+			<tr>
+				<td valign="top" style="padding-right:10px">
+					<div class="container">
+					{{ content }}
+					</div>
+				</td><!-- /.container -->
+				<td valign="top" style="padding-left:10px">
+        </td>
+			</body>
 
 </html>
