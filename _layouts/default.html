@@ -26,7 +26,9 @@
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
-  {% include nav-bar.html %}
+  {% include nav-bar.html %} 
+  <td valign="top" style="padding-left:10px">
+  <\td>
 </header>
 	<body>
 			<tr>
@@ -38,7 +40,6 @@
 				<td valign="top" style="padding-left:10px">
         			</td>
 	  			</tr>
-			
 			</body>
 
 {% if site.external %}
