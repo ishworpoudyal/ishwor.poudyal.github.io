@@ -9,6 +9,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: none;
     text-decoration: none;
+    top: 5px;
     position: relative;
 }
 nav ul li, footer ul li {
@@ -16,10 +17,4 @@ nav ul li, footer ul li {
     margin-right: 5px;
     position: relative
 }
-
-h1 {
-    font-size: 1em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-
 
