@@ -2,7 +2,7 @@
 	<ul>
 		{% for item in site.data.social %}
 			<li>
-				<a rel="me" href="{{ item.link }}" class="title">{{ item.name }}</a>
+				<a rel="me" href="{{ item.link }}">{{ item.name }}</a>
 			</li>
 		{% endfor %}
 		<br/>
@@ -10,9 +10,7 @@
 		<br/>
 		{% for item in site.data.navigation %}
 			<li>
-				<a href="{{ item.link }}" class="title" style="font-size:25px;">
-				{{ item.name }}
-	 			</a>
+				<a href="{{ item.link }}" class="title" style="font-size:25px;">{{ item.name }}</a>
 			</li>
 		{% endfor %}
 	</ul>
