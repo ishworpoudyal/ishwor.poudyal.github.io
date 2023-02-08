@@ -25,8 +25,11 @@
 
 <header>
 <!--<a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>-->
-  {% include menu.html menu=pages %}
+<!--{% include menu.html menu=pages %}-->
   {% include nav-bar.html %}
+  <style>
+        h1{text-align: right;}
+   </style>
 </header>
 {{ content }}
 					
