@@ -12,6 +12,6 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline-block;
-    top: 2.0em
+    position: absolute;
 }
 
