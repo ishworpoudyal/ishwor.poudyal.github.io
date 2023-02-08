@@ -9,7 +9,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: normal;
     text-decoration: none;
-    top: 0;
+    left: 0;
     display: inline-block;
 }
 
