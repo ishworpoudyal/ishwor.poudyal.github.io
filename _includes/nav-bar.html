@@ -10,7 +10,7 @@
 		<br/>
 		{% for item in site.data.navigation %}
 			<li>
-				<a href="{{ item.link }}" class="title" style="font-size:25px;">{{ item.name }}</a>
+				<a href="{{ item.link | relative_url }}" class="title" style="font-size:25px;">{{ item.name }}</a>
 			</li>
 		{% endfor %}
 	</ul>
