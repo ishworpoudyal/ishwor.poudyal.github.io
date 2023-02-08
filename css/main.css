@@ -13,7 +13,5 @@ nav ul, footer ul {
     top: 0;
     right: 0;
 }
-nav ul li, footer ul li {
-    display: inline-block;
-}
+
 
