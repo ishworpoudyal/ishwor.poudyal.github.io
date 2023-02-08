@@ -10,5 +10,7 @@ nav ul, footer ul {
     font-weight: normal;
     text-decoration: none;
     display: inline-block;
+    top: 0;
+    right: 0;
 }
 
