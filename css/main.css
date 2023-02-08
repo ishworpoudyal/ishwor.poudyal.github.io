@@ -13,6 +13,6 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline-block;
-    margin-right: 5px;
+    margin-right: 15px;
 }
 
