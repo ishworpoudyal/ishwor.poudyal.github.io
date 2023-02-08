@@ -7,7 +7,7 @@ nav ul, footer ul {
     font-family:'PT Sans';
     padding: 2px;
     list-style: none;
-    font-weight: none;
+    font-weight: normal;
     text-decoration: none;
 }
 nav ul li, footer ul li {
