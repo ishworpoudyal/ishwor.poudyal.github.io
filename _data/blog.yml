@@ -1,5 +1,5 @@
 - name: Latest
-  link: blog_latest
+  link: /blog_latest
 - name: Categories
   link: blog_categories
 - name: Archive
