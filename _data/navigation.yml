@@ -1,7 +1,7 @@
 - name: Home
   link: /index
 - name: About me
-  link: /about
+  link: /aboutme
 - name: Professional
   link: /Professional/cv
 - name: Blog
