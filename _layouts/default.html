@@ -27,11 +27,13 @@
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
   {% include nav-bar.html %} 
+  <div class="content">
+	{{ content }}
+	</div><!-- /.container -->
 </header>
 
 {{ content }}
 					
-
 {% if site.external %}
 <footer>
   <div> © 2022-{{ site.time | date: '%Y' }} Ishwor Poudyal, all rights reserved.</div>
