@@ -12,6 +12,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline-block;
-    position: absolute;
+    top: 0;
+    right: 0;
 }
 
