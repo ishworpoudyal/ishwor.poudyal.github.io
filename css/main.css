@@ -9,7 +9,12 @@ nav ul, footer ul {
     list-style: none;
     font-weight: normal;
     text-decoration: none;
-    display: inline-block;
+    display: inline;
 }
+nav ul li, footer ul li {
+    display: inline-block;
+    margin-right: 0;
+}
+
 
 
