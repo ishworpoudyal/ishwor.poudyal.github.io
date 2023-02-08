@@ -10,9 +10,9 @@ nav ul, footer ul {
     font-weight: normal;
     text-decoration: none;
     display: inline;
+    top: 10px;
 }
 nav ul li, footer ul li {
     display: inline-block;
-    top: 5px;
 }
 
