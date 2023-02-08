@@ -24,9 +24,9 @@
 {% if site.show_sidebar or site.sidebar %}{% include sidebar.html %}{% endif %}
 
 <header>
-  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
+  {% include menu.html menu=pages %}
+  {% include nav-bar.html %}
 </header>
-{% include nav-bar.html %}
 {{ content }}
 					
 {% if site.external %}
