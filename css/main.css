@@ -13,7 +13,8 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline-block;
-    margin-right: 5px;
-    position: relative
+    position: fixed;
+    margin: 0 -2.25em;
+    font-size: 2em;
 }
 
