@@ -16,7 +16,7 @@ show_description: true       # show the site description in the sidebar
 show_title: true            # always keep the site title visible
 show_social: true            # show footer
 dark_header: false           # always keep the header dark
-minimal: false             # use a dark header
+minimal: true             # use a dark header
 
 # Menu
 
