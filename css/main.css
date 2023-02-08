@@ -11,3 +11,8 @@ nav ul, footer ul {
     text-decoration: none;
     position: relative;
 }
+nav ul li, footer ul li {
+    display: inline-block;
+    margin-right: 5px;
+}
+
