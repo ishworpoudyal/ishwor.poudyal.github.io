@@ -8,7 +8,6 @@
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 {% if site.show_frame %}
 <link rel="stylesheet" href="{{ "/assets/css/frame.css" | relative_url }}">
-<link rel="stylesheet" type="text/css" href="/css/main.css">
 {% else %}
 <link rel="stylesheet" href="{{ "/assets/css/index.css" | relative_url }}">
 {% endif %}
@@ -26,6 +25,7 @@
 <!--<a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>-->
 <!--{% include menu.html menu=pages %}-->
 <!--<div><strong> Date: {{ site.time | date: '%Y/%Y/%Y' }} </strong></div>-->
+  {% include display-time.html %}
   {% include nav-bar.html %}
   <style>
         h1{text-align: left;}
