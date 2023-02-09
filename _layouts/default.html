@@ -26,7 +26,7 @@
 <header>
 <!--<a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>-->
 <!--{% include menu.html menu=pages %}-->
-<p><strong>Current Date and Time is site.time. </strong></p>
+<div><strong>Current Date and Time:</strong>{{ site.time | date: '%Y' }} </div>
   {% include nav-bar.html %}
   <style>
         h1{text-align: left;}
