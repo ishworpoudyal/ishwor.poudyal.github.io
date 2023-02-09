@@ -1,7 +1,10 @@
 <nav>
-  <p>Date/Time: <span id="datetime"></span></p>
+  <p>Date: <span id="date"></span></p>
+  <p>Time: <span id="time"></span></p>
     <script>
-      var dt = new Date();
-      document.getElementById("datetime").innerHTML = dt.toLocaleString();
+      var dD = new Date();
+      var dT = new Date();
+      document.getElementById("date").innerHTML = dD.toLocaleDateString();
+      document.getElementById("time").innerHTML = dT.toLocaleTimeString();
     </script>
   </nav>
