@@ -1,11 +1,7 @@
 
-<link rel="stylesheet" href="{{ "css/time.css" }}">
-<div class="container">
-      <div class="display-date">
-        <span id="day">day</span>,
-        <span id="daynum">00</span>
-        <span id="month">month</span>
-        <span id="year">0000</span>
-      </div>
-      <div class="display-time"></div>
-</div>
+<p>Date/Time: <span id="datetime"></span></p>
+
+<script>
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleString();
+</script>
