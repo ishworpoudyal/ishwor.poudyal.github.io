@@ -1,9 +1,13 @@
 <html>
                 <!-- <strong>Date: <span id="date"></span> </strong> -->
-                <strong > <span id="date"></span> </strong>
+                <div style = "position:fixed; left:80px; top:20px; background-color:yellow;">
+                      <strong > <span id="date"></span> </strong>
+                </div>
+                <div style = "position:fixed; left:80px; top:20px; background-color:yellow;">
                 <strong > <span id="time"></span> </strong>
+                </div>  
     <script>
-      var dD = new Date();
+      var dD = new Date()
       var dT = new Date();
       document.getElementById("date").innerHTML = dD.toLocaleDateString();
       document.getElementById("time").innerHTML = dT.toLocaleTimeString();
