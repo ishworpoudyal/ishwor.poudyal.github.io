@@ -10,7 +10,7 @@
       var dD = new Date();
       var dT = new Date();
       var options = { year: "numeric", month: "numeric", day: "numeric" }; 
-      document.getElementById("date").innerHTML = dD.toLocaleDateString( options );
+      document.getElementById("date").innerHTML = dD.toLocaleDateString( 'en-US', {month: "long"});
       document.getElementById("time").innerHTML = dT.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
     </script>
   </html>
