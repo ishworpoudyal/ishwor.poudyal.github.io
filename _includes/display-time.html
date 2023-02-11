@@ -10,6 +10,6 @@
       var dD = new Date()
       var dT = new Date();
       document.getElementById("date").innerHTML = dD.toLocaleDateString();
-      document.getElementById("time").innerHTML = dT.toLocaleTimeString();
+      document.getElementById("time").innerHTML = dT.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
     </script>
   </html>
