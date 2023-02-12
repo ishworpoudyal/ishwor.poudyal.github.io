@@ -1,6 +1,10 @@
 <html>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous">
+    </script>
                 <!-- <strong>Date: <span id="date"></span> </strong> -->
-                <div style = "position:absolute; left:100px; top:50px; color:green; <i class="far fa-clock"></i> ">
+                <div style = "position:absolute; left:100px; top:50px; color:green;" <i class="far fa-clock"></i> >
                       <strong > <span id="date"></span> </strong>
                 </div>
                 <div style = "position:absolute; left:950px; top:50px; color:green;">
@@ -12,8 +16,5 @@
       document.getElementById("date").innerHTML = dD.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
       document.getElementById("time").innerHTML = dT.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
     </script>
-  
-  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous">
-  </script>
   
 </html>
