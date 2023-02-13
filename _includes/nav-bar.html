@@ -1,12 +1,6 @@
 <link rel="stylesheet" type="text/css" href="/css/main.css"> 
 <nav>
 	<ul>
-		{% for item in site.data.social %}
-			<li>
-				<a rel="me" href="{{ item.link }}">{{ item.name }}</a>
-			</li>
-		{% endfor %}
-		<br/>
 		{% for item in site.data.navigation %}
 			<li>
 				<a href="{{ item.link }}" style="font-size:25px;">{{ item.name }}</a>
