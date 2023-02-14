@@ -19,24 +19,20 @@ Dissertation: [Macromolecular Structure Determination at X-Ray Free Electron Las
 
 
 ### Master Degree (M.S.) in Physics (2010 - 2013)
-
+<img align="right" width="100" height="100" src="/Images/TU.png">
 Institute: [Central Department of Physics,](https://tucdp.edu.np/) Tribhuvan University, Kirtipur, Nepal
 <br>
 Supervisor: Prof. Narayan Adhikari
 <br>
 Dissertation: [Molecular Dynamics Study of Diffusion of Carbon Monoxide in Water at Different Temperatures](https://github.com/ishworpoudyal/ishworpoudyal.github.io/blob/master/Professional/ishwor_thesis.pdf)
-<br>
-<img align="right" width="100" height="100" src="/Images/TU.png">
-<br clear="right"/>
+<br/>
 
 
 ### Bachelor's degree (B.S.) (2006 - 2010 )
-
+<img align="right" width="100" height="100" src="/Images/TU.png">
 Institute: [Tri-chandra Multiple Campus,](https://trichandracampus.edu.np/) Tribhuvan University, Kathmandu, Nepal
 Major: Physics, Minor: Statistics, Mathematics
-<br>
-<img align="right" width="100" height="100" src="/Images/TU.png">
-<br clear="right"/>
+<br/>
 
 ### High School (+2 College) (2003 - 2005 )
 
