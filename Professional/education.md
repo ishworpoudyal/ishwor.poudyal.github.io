@@ -9,7 +9,7 @@ mathjax: true
 
 ### Doctoral Degree (Ph.D.) in Physics (2014 - 2020)
 
-Institute: University of Wisconsin-Milwaukee, Milwaukee, WI, USA
+Institute: [University of Wisconsin-Milwaukee,](https://uwm.edu/) Milwaukee, WI, USA
 <br>
 Supervisors: Prof. Marius Schmidt & Prof. Peter Schwander
 <br>
@@ -20,7 +20,7 @@ Dissertation: [Macromolecular Structure Determination at X-Ray Free Electron Las
 
 ### Master Degree (M.S.) in Physics (2010 - 2013)
 
-Institute: Central Department of Physics, Tribhuvan University, Kirtipur, Nepal
+Institute: [Central Department of Physics,](https://tucdp.edu.np/) Tribhuvan University, Kirtipur, Nepal
 <br>
 Supervisor: Prof. Narayan Adhikari
 <br>
@@ -32,7 +32,7 @@ Dissertation: [Molecular Dynamics Study of Diffusion of Carbon Monoxide in Water
 
 ### Bachelor's degree (B.S.) (2006 - 2010 )
 
-Institute: TriChandra Multiple Campus, Tribhuvan University, Kathmandu, Nepal
+Institute: [TriChandra Multiple Campus,](https://trichandracampus.edu.np/) Tribhuvan University, Kathmandu, Nepal
 Major: Physics, Minor: Statistics, Mathematics
 <br>
 <img align="right" width="100" height="100" src="/Images/TU.png">
@@ -40,8 +40,8 @@ Major: Physics, Minor: Statistics, Mathematics
 
 ### High School (+2 College) (2003 - 2005 )
 
-Institute: National School of Sciences, Lainchour, Nepal
+Institute: [National School of Sciences,](https://nist.edu.np/) Lainchour, Nepal
 Major: Physics, Minor: Statistics, Mathematics
 <br>
-<img align="right" width="200" height="100" src="/Images/NIST.png">
+<img align="right" width="250" height="100" src="/Images/NIST.png">
 <br clear="right"/>
