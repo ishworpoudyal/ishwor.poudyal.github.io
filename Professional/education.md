@@ -8,33 +8,33 @@ mathjax: true
 
 
 ### Doctoral Degree (Ph.D.) in Physics (2014 - 2020)
-<img align="right" width="100" height="100" src="/Images/uwmlogo.png">
 Institute: [University of Wisconsin-Milwaukee,](https://uwm.edu/) Milwaukee, WI, USA
 <br>
 Supervisors: Prof. Marius Schmidt & Prof. Peter Schwander
 <br>
 Dissertation: [Macromolecular Structure Determination at X-Ray Free Electron Lasers from Single-Particle Imaging  to Time-Resolved X-Ray Crystallography](https://dc.uwm.edu/cgi/viewcontent.cgi?article=3585&context=etd)
 <br>
-<br/>
+<img align="right" width="100" height="100" src="/Images/uwmlogo.png">
+<br clear="right"/>
 
 
 ### Master Degree (M.S.) in Physics (2010 - 2013)
-<img align="right" width="100" height="100" src="/Images/TU.png">
 Institute: [Central Department of Physics,](https://tucdp.edu.np/) Tribhuvan University, Kirtipur, Nepal
 <br>
 Supervisor: Prof. Narayan Adhikari
 <br>
 Dissertation: [Molecular Dynamics Study of Diffusion of Carbon Monoxide in Water at Different Temperatures](https://github.com/ishworpoudyal/ishworpoudyal.github.io/blob/master/Professional/ishwor_thesis.pdf)
 <br>
-<br/>
+<img align="right" width="100" height="100" src="/Images/TU.png">
+<br clear="right"/>
 
 
 ### Bachelor's degree (B.S.) (2006 - 2010 )
-<img align="right" width="100" height="100" src="/Images/TU.png">
 Institute: [Tri-chandra Multiple Campus,](https://trichandracampus.edu.np/) Tribhuvan University, Kathmandu, Nepal
 Major: Physics, Minor: Statistics, Mathematics
 <br>
-<br/>
+<img align="right" width="100" height="100" src="/Images/TU.png">
+<br clear="right"/>
 
 ### High School (+2 College) (2003 - 2005 )
 
