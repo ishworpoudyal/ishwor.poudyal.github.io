@@ -11,7 +11,7 @@ mathjax: true
 
 Institute: University of Wisconsin-Milwaukee, Milwaukee, WI, USA
 <br>
-Superivisors: Prof. Marius Schmidt & Prof. Peter Schwander
+Supervisors: Prof. Marius Schmidt & Prof. Peter Schwander
 <br>
 Dissertation: [Macromolecular Structure Determination at X-Ray Free Electron Lasers from Single-Particle Imaging  to Time-Resolved X-Ray Crystallography](https://dc.uwm.edu/cgi/viewcontent.cgi?article=3585&context=etd)
 <br>
@@ -22,7 +22,7 @@ Dissertation: [Macromolecular Structure Determination at X-Ray Free Electron Las
 
 Institute: Central Department of Physics, Tribhuvan University, Kathmandu, Nepal
 <br>
-Superivisors: Prof. Narayan Adhikari
+Supervisor: Prof. Narayan Adhikari
 <br>
 Dissertation: [Molecular Dynamics Study of Diffusion of Carbon Monoxide in Water at Different Temperatures](https://github.com/ishworpoudyal/ishworpoudyal.github.io/blob/master/Professional/ishwor_thesis.pdf)
 <br>
