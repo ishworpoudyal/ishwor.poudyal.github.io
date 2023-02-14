@@ -3,7 +3,7 @@
   left: 100px
 - name: About me
   link: /aboutme
-  left: 400px
+  left: 350px
 - name: Professional
   link: /Professional/cv
   left: 700px
