@@ -14,7 +14,7 @@ Institute: [University of Wisconsin-Milwaukee,](https://uwm.edu/) Milwaukee, WI,
 Supervisors: Prof. Marius Schmidt & Prof. Peter Schwander
 <br>
 Dissertation: [Macromolecular Structure Determination at X-Ray Free Electron Lasers from Single-Particle Imaging  to Time-Resolved X-Ray Crystallography](https://dc.uwm.edu/cgi/viewcontent.cgi?article=3585&context=etd)
-
+<br>
 <br/>
 
 
@@ -25,6 +25,7 @@ Institute: [Central Department of Physics,](https://tucdp.edu.np/) Tribhuvan Uni
 Supervisor: Prof. Narayan Adhikari
 <br>
 Dissertation: [Molecular Dynamics Study of Diffusion of Carbon Monoxide in Water at Different Temperatures](https://github.com/ishworpoudyal/ishworpoudyal.github.io/blob/master/Professional/ishwor_thesis.pdf)
+<br>
 <br/>
 
 
@@ -32,6 +33,7 @@ Dissertation: [Molecular Dynamics Study of Diffusion of Carbon Monoxide in Water
 <img align="right" width="100" height="100" src="/Images/TU.png">
 Institute: [Tri-chandra Multiple Campus,](https://trichandracampus.edu.np/) Tribhuvan University, Kathmandu, Nepal
 Major: Physics, Minor: Statistics, Mathematics
+<br>
 <br/>
 
 ### High School (+2 College) (2003 - 2005 )
