@@ -8,14 +8,13 @@ mathjax: true
 
 
 ### Doctoral Degree (Ph.D.) in Physics (2014 - 2020)
-
+<img align="right" width="100" height="100" src="/Images/uwmlogo.png">
 Institute: [University of Wisconsin-Milwaukee,](https://uwm.edu/) Milwaukee, WI, USA
 <br>
 Supervisors: Prof. Marius Schmidt & Prof. Peter Schwander
 <br>
 Dissertation: [Macromolecular Structure Determination at X-Ray Free Electron Lasers from Single-Particle Imaging  to Time-Resolved X-Ray Crystallography](https://dc.uwm.edu/cgi/viewcontent.cgi?article=3585&context=etd)
 <br>
-<img align="right" width="100" height="100" src="/Images/uwmlogo.png">
 
 ### Master Degree (M.S.) in Physics (2010 - 2013)
 
