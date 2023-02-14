@@ -16,7 +16,6 @@ Supervisors: Prof. Marius Schmidt & Prof. Peter Schwander
 Dissertation: [Macromolecular Structure Determination at X-Ray Free Electron Lasers from Single-Particle Imaging  to Time-Resolved X-Ray Crystallography](https://dc.uwm.edu/cgi/viewcontent.cgi?article=3585&context=etd)
 <br>
 <img align="right" width="100" height="100" src="/Images/uwmlogo.png">
-<br clear="right"/>
 
 ### Master Degree (M.S.) in Physics (2010 - 2013)
 
