@@ -1,10 +1,9 @@
+{% include profmenu.html %}
 ---
 layout: page
 title: "Education"
 mathjax: true
 ---
-
-{% include profmenu.html %}
 
 
 ### Doctoral Degree (Ph.D.) in Physics (2014 - 2020)
