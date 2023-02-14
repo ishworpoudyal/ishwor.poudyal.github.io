@@ -1,8 +1,13 @@
 - name: Home
   link: /index
+  left: 400px
 - name: About me
   link: /aboutme
+  left: 600px
 - name: Professional
   link: /Professional/cv
+  left: 800px
 - name: Blog
   link: /blog
+  left: 1000px
+ 
