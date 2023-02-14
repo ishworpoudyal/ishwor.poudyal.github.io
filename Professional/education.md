@@ -43,5 +43,5 @@ Major: Physics, Minor: Statistics, Mathematics
 Institute: National School of Sciences, Lainchour, Nepal
 Major: Physics, Minor: Statistics, Mathematics
 <br>
-<img align="right" width="100" height="100" src="/Images/NIST.png">
+<img align="right" width="200" height="100" src="/Images/NIST.png">
 <br clear="right"/>
