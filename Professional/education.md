@@ -32,7 +32,7 @@ Dissertation: [Molecular Dynamics Study of Diffusion of Carbon Monoxide in Water
 
 ### Bachelor's degree (B.S.) (2006 - 2010 )
 
-Institute: [TriChandra Multiple Campus,](https://trichandracampus.edu.np/) Tribhuvan University, Kathmandu, Nepal
+Institute: [Tri-chandra Multiple Campus,](https://trichandracampus.edu.np/) Tribhuvan University, Kathmandu, Nepal
 Major: Physics, Minor: Statistics, Mathematics
 <br>
 <img align="right" width="100" height="100" src="/Images/TU.png">
