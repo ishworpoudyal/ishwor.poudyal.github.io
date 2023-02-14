@@ -7,7 +7,7 @@ mathjax: true
 {% include profmenu.html %}
 
 
-### Doctoral Degree (Ph.D.) in Physics (08/2014 - 12/2020)
+### Doctoral Degree (Ph.D.) in Physics (2014 - 2020)
 
 Institute: University of Wisconsin-Milwaukee, Milwaukee, WI, USA
 <br>
@@ -18,9 +18,9 @@ Dissertation: [Macromolecular Structure Determination at X-Ray Free Electron Las
 <img align="right" width="100" height="100" src="/Images/uwmlogo.png">
 <br clear="right"/>
 
-### Master Degree (M.S.) in Physics (12/2010 - 12/2013)
+### Master Degree (M.S.) in Physics (2010 - 2013)
 
-Institute: Central Department of Physics, Tribhuvan University, Kathmandu, Nepal
+Institute: Central Department of Physics, Tribhuvan University, Kirtipur, Nepal
 <br>
 Supervisor: Prof. Narayan Adhikari
 <br>
@@ -30,3 +30,10 @@ Dissertation: [Molecular Dynamics Study of Diffusion of Carbon Monoxide in Water
 <br clear="right"/>
 
 
+### Bachelor's degree (M.S.) (2007 - 2010 )
+
+Institute: TriChandra Multiple Campus, Tribhuvan University, Kathmandu, Nepal
+Major: Physics, Minor: Statistics, Mathematics
+<br>
+<img align="right" width="100" height="100" src="/Images/TU.png">
+<br clear="right"/>
