@@ -1,6 +1,6 @@
 - name: Home
   link: /index
-  left: 100px
+  left: 140px
 - name: About me
   link: /aboutme
   left: 380px
