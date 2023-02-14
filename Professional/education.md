@@ -41,7 +41,6 @@ Major: Physics, Minor: Statistics, Mathematics
 ### High School (+2 College) (2003 - 2005 )
 
 Institute: [National School of Sciences,](https://nist.edu.np/) Lainchour, Nepal
-Major: Physics, Minor: Statistics, Mathematics
 <br>
 <img align="right" width="250" height="100" src="/Images/NIST.png">
 <br clear="right"/>
