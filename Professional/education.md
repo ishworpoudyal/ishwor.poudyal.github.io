@@ -1,10 +1,10 @@
-{% include profmenu.html %}
+
 ---
 layout: page
-title: "Education"
+title: " "
 mathjax: true
 ---
-
+{% include profmenu.html %}
 
 ### Doctoral Degree (Ph.D.) in Physics (2014 - 2020)
 Institute: [University of Wisconsin-Milwaukee,](https://uwm.edu/) Milwaukee, WI, USA
