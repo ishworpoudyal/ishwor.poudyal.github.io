@@ -6,6 +6,10 @@ mathjax: true
 
 {% include profmenu.html %}
 
+S. Pandey, G. Calvey, A.M. Katz, T.N. Malla, F.H.M Koua, J.M. Martin-Garcia, **<ins>I. Poudyal</ins>**, J-H Yang, M. Vakili, O. Yefanov, K.A. Zielinski, S. Bajt, S. Awel, K. Doerner, M. Frank, L. Gelisio, R. Jernigan, H. Kirkwood, M. Kloos, J. Koliyadu, V. Mariani, M.D. Miller, G. Mills, G. Nelson, J.L.Olmos Jr, A. Sadri, T. Sato, A. Tolstikova, W. Xu, A. Ourmazd, J.H.C Spence, P.Schwander, A. Barty, H.N. Chapman, P. Fromme, A.P. Mancuso, G.N. Phillips Jr, R. Bean, L. Pollack, M. Schmidt (2021) [Observation of substrate diffusion and ligand binding in enzyme crystals using high-repetition-rate mix-and-inject serial crystallography.](https://journals.iucr.org/m/issues/2021/06/00/mf5055/index.html)<em>IUCRJ</em> **8, 6, 878-895.**
+
+<br>
+
 M. Carrillo, S. Pandey, J. Sanchez, M. Noda, **<ins>I. Poudyal</ins>**,L. Aldama, T.N. Malla, E. Claesson, W. Y. Wahlgren, D. Feliz, V. Šrajer, M. Maj, L. Castillon, S. Iwata, E. Nango, R. Tanaka, T.Tanaka, L. Fangjia, K. Tono, S. Owada, S. Westenhoff, E. A. Stojković, M. Schmidt (2021) [High-resolution crystal structures of transient intermediates in the phytochrome photocycle.](https://www.sciencedirect.com/science/article/pii/S0969212621000770) <em>Structure</em> **29,1-12.**
 
 <br>
