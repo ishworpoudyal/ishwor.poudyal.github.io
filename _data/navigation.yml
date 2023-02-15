@@ -5,9 +5,9 @@
   link: /aboutme
   left: 380px
 - name: Professional
-  link: /Professional/cv
+  link: /Professional
   left: 700px
 - name: Blog
-  link: /blog
+  link: /Blog
   left: 1000px
  
