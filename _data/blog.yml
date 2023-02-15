@@ -1,6 +1,6 @@
-- name: Latest
-  link: /blog_latest
-- name: Categories
-  link: blog_categories
-- name: Archive
-  link: blog_archive
+- name: कविता 
+  link: /Blog/Kabita
+- name: गजल 
+  link: /Blog/Gajal
+- name: अन्य 
+  link: /Blog/MixMax
