@@ -1,5 +1,7 @@
 ---
 layout: page
-title: " "
+title: ""
+mathjax: true
 ---
+
 {% include blogmenu.html %}
