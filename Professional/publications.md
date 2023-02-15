@@ -43,7 +43,7 @@ C. Kupitz, J. L. Olmos Jr., M. Holl, L. Tremblay, K. Pande, S. Pandey, D. Oberth
 
 <br>
 
-**1.**   **<ins>I. Poudyal</ins>**, N.P. Adhikari (2014) [Temperature dependence of diffusion coefficient of carbon monoxide in water: A molecular dynamics study,](https://www.sciencedirect.com/science/article/pii/S016773221400018X?casa_token=6moIhGsoZ10AAAAA:HD6OyJAzPIcbAmRiNQ0Yk9VLkbZGvuS8IxeOljCc-2fwpU_qbIZBibQERWziMwgaUbjgD0t6FQ) <em>Journal of Molecular Liquids</em> **194, 77-8.** 
+_**1.**_   **<ins>I. Poudyal</ins>**, N.P. Adhikari (2014) [Temperature dependence of diffusion coefficient of carbon monoxide in water: A molecular dynamics study,](https://www.sciencedirect.com/science/article/pii/S016773221400018X?casa_token=6moIhGsoZ10AAAAA:HD6OyJAzPIcbAmRiNQ0Yk9VLkbZGvuS8IxeOljCc-2fwpU_qbIZBibQERWziMwgaUbjgD0t6FQ) <em>Journal of Molecular Liquids</em> **194, 77-8.** 
 
 
 
