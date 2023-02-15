@@ -6,6 +6,14 @@ mathjax: true
 
 {% include profmenu.html %}
 
+S. Pandey #, R. Bean#, T. Sato#, **<ins>I. Poudyal</ins>**, J. Bielecki, J. Cruz Villarreal, O. Yefanov, V. Mariani, T. A. White, C. Kupitz, M. Hunter, M. H. Abdellatif, S. Bajt, V. Bondar, A. Echelmeier, D. Doppler, M. Emons, M. Frank, R. Fromme, Y. Gevorkov, G. Giovanetti, M. Jiang, D. Kim, Y. Kim, H. Kirkwood, A. Klimovskaia, J. Knoska, F. H. M. Koua, R. Letrun, S. Lisova, L. Maia, V. Mazalova, D. Meza, T. Michelat, A. Ourmazd, G. Palmer, M. Ramilli, R. Schubert, P. Schwander, A. Silenzi, J. Sztuk-Dambietz, A. Tolstikova, H. N. Chapman, A. Ros, A. Barty, P. Fromme, A. P. Mancuso, M. Schmidt (2019) [Time-Resolved Serial Femtosecond Crystallography at the European XFEL](https://www.nature.com/articles/s41592-019-0628-z), <em>Nature Methods</em> **17.1, 73-78.**
+
+<br>
+
+J. Olmos, S. Pandey, J. Martin-Garcia, G. Calvey, A. Katz, J. Knoska, C. Kupitz, M. S. Hunter, M. Liang, D. Oberthuer, O. Yefanov, M. Wiedorn, M. Heyman, M. Holl, K. Pande, A. Barty, M. D. Miller, S. Stern, S. Roy-Chowdhury, J. Coe, N. Nagaratnam, J. Zook, J. Verburgt, T. Norwood, **<ins>I. Poudyal</ins>**, D. Xu, J. Koglin, M. H. Seaberg, Y. Zhao, S. Bajt, T. Grant, V. Mariani, G. Nelson, G. Subramanian, E. Bae, R. Fromme, R. Fung, P. Schwander, M. Frank, T. A. White, U. Weierstall, N. Zatsepin, J. Spence, P. Fromme, H. N. Chapman, L. Pollacket, L. Trembley, A. Ourmazd, G. Phillips, M. Schmidt (2018) [Enzyme intermediates captured “on the fly” by mix-and-inject serial crystallography](https://link.springer.com/article/10.1186/s12915-018-0524-5), <em>BMC-Biology</em> **16 (1), 59.**
+
+<br>
+
 N. C. Woitowich, A. S. Halavati, P. Waltz, C. Kupitz, J. Valera, G. Tracy, K.D. Gallagher, E. Claesson, T. Nakana, S. Pandey, G. Nelson, R. Tanaka, E. Nango, E. Mizohata, S. Owada, K. Tono, Y. Joti, A.C. Nugent, H. Patel, A. Mapara, J. Hopkins, P. Duong, D. Bizhga, S.E. Kovaleva, R. St. Peter, C.N. Hernandez, W.B. Ozarowski, S. Roy-Chowdhuri, J-H Yang, P. Edlund, H. Takala, J. Ihalainen, J. Brayshaw, T. Norwood, **<ins>I. Poudyal</ins>**, P. Fromme, J.C.H. Spence, K. Moffat, S. Westenhoff,M. Schmidt*, E. Stojkovic*(2018) [Structural Basis for Light Control of Cell Development as Revealed by Crystal Structures of a Myxobacterial Phytochrome,](https://journals.iucr.org/m/issues/2018/05/00/jt5025/index.html)<em>IUCrJ</em> **5 (5).**
 
 <br>
