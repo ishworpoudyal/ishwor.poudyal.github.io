@@ -6,6 +6,15 @@ mathjax: true
 
 {% include profmenu.html %}
 
+S. Pandey#, **<ins>I. Poudyal# </ins>**, T.N. Malla (2020) [Pump-Probe Time-Resolved Serial Femtosecond Crystallography at X-ray Free Electron Lasers.]() <em>Crystals</em> **10.7, 628.** <em>(#corresponding author)</em>
+
+<br>
+
+**<ins>I. Poudyal</ins>**, M. Schmidt, and P. Schwander (2020). [Single-particle imaging by x-ray free electron lasers – How many snapshots are needed?](https://aca.scitation.org/doi/full/10.1063/1.5144516)<em>Structural Dynamics</em> **7.2, 024102.**
+
+
+<br>
+
 S. Pandey #, R. Bean#, T. Sato#, **<ins>I. Poudyal</ins>**, J. Bielecki, J. Cruz Villarreal, O. Yefanov, V. Mariani, T. A. White, C. Kupitz, M. Hunter, M. H. Abdellatif, S. Bajt, V. Bondar, A. Echelmeier, D. Doppler, M. Emons, M. Frank, R. Fromme, Y. Gevorkov, G. Giovanetti, M. Jiang, D. Kim, Y. Kim, H. Kirkwood, A. Klimovskaia, J. Knoska, F. H. M. Koua, R. Letrun, S. Lisova, L. Maia, V. Mazalova, D. Meza, T. Michelat, A. Ourmazd, G. Palmer, M. Ramilli, R. Schubert, P. Schwander, A. Silenzi, J. Sztuk-Dambietz, A. Tolstikova, H. N. Chapman, A. Ros, A. Barty, P. Fromme, A. P. Mancuso, M. Schmidt (2019) [Time-Resolved Serial Femtosecond Crystallography at the European XFEL](https://www.nature.com/articles/s41592-019-0628-z), <em>Nature Methods</em> **17.1, 73-78.**
 
 <br>
