@@ -6,11 +6,11 @@ mathjax: true
 
 {% include profmenu.html %}
 
-S. Pandey, G. Calvey, A.M. Katz, T.N. Malla, F.H.M Koua, J.M. Martin-Garcia, **<ins>I. Poudyal</ins>**, J-H Yang, M. Vakili, O. Yefanov, K.A. Zielinski, S. Bajt, S. Awel, K. Doerner, M. Frank, L. Gelisio, R. Jernigan, H. Kirkwood, M. Kloos, J. Koliyadu, V. Mariani, M.D. Miller, G. Mills, G. Nelson, J.L.Olmos Jr, A. Sadri, T. Sato, A. Tolstikova, W. Xu, A. Ourmazd, J.H.C Spence, P.Schwander, A. Barty, H.N. Chapman, P. Fromme, A.P. Mancuso, G.N. Phillips Jr, R. Bean, L. Pollack, M. Schmidt (2021) [Observation of substrate diffusion and ligand binding in enzyme crystals using high-repetition-rate mix-and-inject serial crystallography.](https://journals.iucr.org/m/issues/2021/06/00/mf5055/index.html)<em>IUCRJ</em> **8, 6, 878-895.**
+S. Pandey, G. Calvey, A.M. Katz, T.N. Malla, F.H.M Koua, J.M. Martin-Garcia, **<ins>I. Poudyal</ins>**, J-H Yang, M. Vakili, O. Yefanov, K.A. Zielinski, S. Bajt, S. Awel, K. Doerner, M. Frank, L. Gelisio, R. Jernigan, H. Kirkwood, M. Kloos, J. Koliyadu, V. Mariani, M.D. Miller, G. Mills, G. Nelson, J.L.Olmos Jr, A. Sadri, T. Sato, A. Tolstikova, W. Xu, A. Ourmazd, J.H.C Spence, P.Schwander, A. Barty, H.N. Chapman, P. Fromme, A.P. Mancuso, G.N. Phillips Jr, R. Bean, L. Pollack, M. Schmidt (2021) [Observation of substrate diffusion and ligand binding in enzyme crystals using high-repetition-rate mix-and-inject serial crystallography.](https://journals.iucr.org/m/issues/2021/06/00/mf5055/index.html) <em>IUCRJ</em> **8, 6, 878-895.**
 
 <br>
 
-M. Carrillo, S. Pandey, J. Sanchez, M. Noda, **<ins>I. Poudyal</ins>**,L. Aldama, T.N. Malla, E. Claesson, W. Y. Wahlgren, D. Feliz, V. Šrajer, M. Maj, L. Castillon, S. Iwata, E. Nango, R. Tanaka, T.Tanaka, L. Fangjia, K. Tono, S. Owada, S. Westenhoff, E. A. Stojković, M. Schmidt (2021) [High-resolution crystal structures of transient intermediates in the phytochrome photocycle.](https://www.sciencedirect.com/science/article/pii/S0969212621000770) <em>Structure</em> **29,1-12.**
+M. Carrillo, S. Pandey, J. Sanchez, M. Noda, **<ins>I. Poudyal</ins>**,L. Aldama, T.N. Malla, E. Claesson, W. Y. Wahlgren, D. Feliz, V. Šrajer, M. Maj, L. Castillon, S. Iwata, E. Nango, R. Tanaka, T.Tanaka, L. Fangjia, K. Tono, S. Owada, S. Westenhoff, E. A. Stojković, M. Schmidt (2021) [High-resolution crystal structures of transient intermediates in the phytochrome photocycle.](https://www.sciencedirect.com/science/article/pii/S0969212621000770)  <em>Structure</em> **29,1-12.**
 
 <br>
 
@@ -18,7 +18,7 @@ S. Pandey#, **<ins>I. Poudyal# </ins>**, T.N. Malla (2020) [Pump-Probe Time-Reso
 
 <br>
 
-**<ins>I. Poudyal</ins>**, M. Schmidt, and P. Schwander (2020). [Single-particle imaging by x-ray free electron lasers – How many snapshots are needed?](https://aca.scitation.org/doi/full/10.1063/1.5144516)<em>Structural Dynamics</em> **7.2, 024102.**
+**<ins>I. Poudyal</ins>**, M. Schmidt, and P. Schwander (2020). [Single-particle imaging by x-ray free electron lasers – How many snapshots are needed?](https://aca.scitation.org/doi/full/10.1063/1.5144516) <em>Structural Dynamics</em> **7.2, 024102.**
 
 
 <br>
@@ -31,7 +31,7 @@ J. Olmos, S. Pandey, J. Martin-Garcia, G. Calvey, A. Katz, J. Knoska, C. Kupitz,
 
 <br>
 
-N. C. Woitowich, A. S. Halavati, P. Waltz, C. Kupitz, J. Valera, G. Tracy, K.D. Gallagher, E. Claesson, T. Nakana, S. Pandey, G. Nelson, R. Tanaka, E. Nango, E. Mizohata, S. Owada, K. Tono, Y. Joti, A.C. Nugent, H. Patel, A. Mapara, J. Hopkins, P. Duong, D. Bizhga, S.E. Kovaleva, R. St. Peter, C.N. Hernandez, W.B. Ozarowski, S. Roy-Chowdhuri, J-H Yang, P. Edlund, H. Takala, J. Ihalainen, J. Brayshaw, T. Norwood, **<ins>I. Poudyal</ins>**, P. Fromme, J.C.H. Spence, K. Moffat, S. Westenhoff,M. Schmidt*, E. Stojkovic*(2018) [Structural Basis for Light Control of Cell Development as Revealed by Crystal Structures of a Myxobacterial Phytochrome,](https://journals.iucr.org/m/issues/2018/05/00/jt5025/index.html)<em>IUCrJ</em> **5 (5).**
+N. C. Woitowich, A. S. Halavati, P. Waltz, C. Kupitz, J. Valera, G. Tracy, K.D. Gallagher, E. Claesson, T. Nakana, S. Pandey, G. Nelson, R. Tanaka, E. Nango, E. Mizohata, S. Owada, K. Tono, Y. Joti, A.C. Nugent, H. Patel, A. Mapara, J. Hopkins, P. Duong, D. Bizhga, S.E. Kovaleva, R. St. Peter, C.N. Hernandez, W.B. Ozarowski, S. Roy-Chowdhuri, J-H Yang, P. Edlund, H. Takala, J. Ihalainen, J. Brayshaw, T. Norwood, **<ins>I. Poudyal</ins>**, P. Fromme, J.C.H. Spence, K. Moffat, S. Westenhoff,M. Schmidt*, E. Stojkovic*(2018) [Structural Basis for Light Control of Cell Development as Revealed by Crystal Structures of a Myxobacterial Phytochrome,](https://journals.iucr.org/m/issues/2018/05/00/jt5025/index.html) <em>IUCrJ</em> **5 (5).**
 
 <br>
 
