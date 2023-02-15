@@ -6,7 +6,11 @@ mathjax: true
 
 {% include profmenu.html %}
 
-S. Pandey#, **<ins>I. Poudyal# </ins>**, T.N. Malla (2020) [Pump-Probe Time-Resolved Serial Femtosecond Crystallography at X-ray Free Electron Lasers.]() <em>Crystals</em> **10.7, 628.** <em>(#corresponding author)</em>
+M. Carrillo, S. Pandey, J. Sanchez, M. Noda, **<ins>I. Poudyal</ins>**,L. Aldama, T.N. Malla, E. Claesson, W. Y. Wahlgren, D. Feliz, V. Šrajer, M. Maj, L. Castillon, S. Iwata, E. Nango, R. Tanaka, T.Tanaka, L. Fangjia, K. Tono, S. Owada, S. Westenhoff, E. A. Stojković, M. Schmidt (2021) [High-resolution crystal structures of transient intermediates in the phytochrome photocycle.](https://www.sciencedirect.com/science/article/pii/S0969212621000770) <em>Structure</em> **29,1-12.**
+
+<br>
+
+S. Pandey#, **<ins>I. Poudyal# </ins>**, T.N. Malla (2020) [Pump-Probe Time-Resolved Serial Femtosecond Crystallography at X-ray Free Electron Lasers.](https://www.mdpi.com/2073-4352/10/7/628) <em>Crystals</em> **10.7, 628.** <em>(#corresponding author)</em>
 
 <br>
 
