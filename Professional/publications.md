@@ -6,7 +6,7 @@ mathjax: true
 
 {% include profmenu.html %}
 
-N. C. Woitowich, A. S. Halavati, P. Waltz, C. Kupitz, J. Valera, G. Tracy, K.D. Gallagher, E. Claesson, T. Nakana, S. Pandey, G. Nelson, R. Tanaka, E. Nango, E. Mizohata, S. Owada, K. Tono, Y. Joti, A.C. Nugent, H. Patel, A. Mapara, J. Hopkins, P. Duong, D. Bizhga, S.E. Kovaleva, R. St. Peter, C.N. Hernandez, W.B. Ozarowski, S. Roy-Chowdhuri, J-H Yang, P. Edlund, H. Takala, J. Ihalainen, J. Brayshaw, T. Norwood, **<ins>I. Poudyal</ins>**, P. Fromme, J.C.H. Spence, K. Moffat, S. Westenhoff,M. Schmidt*, E. Stojkovic*(2018) Structural Basis for Light Control of Cell Development as Revealed by Crystal Structures of a Myxobacterial Phytochrome,<em>IUCrJ</em> **5 (5).**
+N. C. Woitowich, A. S. Halavati, P. Waltz, C. Kupitz, J. Valera, G. Tracy, K.D. Gallagher, E. Claesson, T. Nakana, S. Pandey, G. Nelson, R. Tanaka, E. Nango, E. Mizohata, S. Owada, K. Tono, Y. Joti, A.C. Nugent, H. Patel, A. Mapara, J. Hopkins, P. Duong, D. Bizhga, S.E. Kovaleva, R. St. Peter, C.N. Hernandez, W.B. Ozarowski, S. Roy-Chowdhuri, J-H Yang, P. Edlund, H. Takala, J. Ihalainen, J. Brayshaw, T. Norwood, **<ins>I. Poudyal</ins>**, P. Fromme, J.C.H. Spence, K. Moffat, S. Westenhoff,M. Schmidt*, E. Stojkovic*(2018) [Structural Basis for Light Control of Cell Development as Revealed by Crystal Structures of a Myxobacterial Phytochrome,](https://journals.iucr.org/m/issues/2018/05/00/jt5025/index.html)<em>IUCrJ</em> **5 (5).**
 
 <br>
 
