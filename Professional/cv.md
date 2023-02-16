@@ -27,22 +27,24 @@ BSc in Physics (Major: Physics, Minor: Mathematics, Statistics)	     					**2007
 
 <br>
 ### Postdoctoral Research Associate | Argonne National Laboratory 					**Feb.  2021 – Nov. 2022**
+<ol>
     <li> Mathematical Formulation based on Fourier-optics and Simulation of lens-based coherent X-ray scattering.<\li>
     <li> Experimental design of coherence-enhanced dark-field X-ray microscopy techniques at Sector 6-IDC, Advanced Photon Source (APS).<\li>
     <li> Testing and troubleshooting hardware configurations of instruments used for X-ray diffraction experiments.<\li><\li>
     <li> Operating and aligning a diffractometer. Supporting users during beamtime at Sector 6-IDC.<\li>
     <li> Mentored an undergraduate student within SULI program.<\li>
-
+<\ol>
 
 
 ### Research Associate | UWM						 				**May 2015 – Feb. 2021**
+<ol>
     <li> Analyzed X-ray Free Electron Lasers (XFELs) crystallographic data during experiments (multiple beam times) at SLAC National Accelerator Laboratory, Menlo Park USA, EuXFEL Hamburg Germany, SACLA Japan.<\li> 
     <li> Extensive experience in expression, purification, and crystallization of the protein.<\li>
     <li> Extensive experience in crystallographic and single-particle diffraction data analysis.<\li>
     <li> My work focuses on data analysis of single particle imaging from biological entities. Part of my project was related to single-particle diffraction pattern simulation, merging of diffraction patterns into a 3D diffraction volume and use iterative phasing algorithm to reconstruct the electron density. We have also applied manifold embedding based on the diffusion map algorithm to sort single hits from the XFELs dataset.<\li>
     <li> Experience in analyzing and interpreting large data sets to develop data-driven recommendations. <\li>
     <li> Published results in peer-reviewed journal papers and presented research at international conferences. Poster presentation at funding agency annual 	review meeting.<\li>
-
+<\ol>
 
 ### Teaching Assistant | UWM						           		 	**August 2014 – May 2020**
     <li> Teaching is an important part of the doctoral program at UWM. I have taught weekly discussion sections for PHY-120, PHY-210 and lab courses for PHY-108, PHY-121, PHY-215, as a graduate teaching assistant. <\li>
