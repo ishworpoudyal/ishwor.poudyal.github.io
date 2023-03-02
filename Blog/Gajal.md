@@ -18,5 +18,4 @@ mathjax: true
 [गजल_4(2012)](/Blog/Gajal/gajal4.md)
 
 <br>
-
 [गजल_5(2012)](/Blog/Gajal/gajal5.txt)
