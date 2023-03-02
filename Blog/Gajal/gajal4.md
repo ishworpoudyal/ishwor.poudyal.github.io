@@ -1,6 +1,7 @@
 ---
 layout: default
-title: ""
+title: " "
+sitemap: false
 ---
 
 
