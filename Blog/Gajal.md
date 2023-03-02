@@ -15,7 +15,7 @@ mathjax: true
 [गजल_3(2011)](/Blog/Gajal/gajal3.txt)
 
 <br>
-[गजल_4(2012)](/Blog/Gajal/gajal4.txt)
+[गजल_4(2012)](/Blog/Gajal/gajal4.md)
 
 <br>
 
