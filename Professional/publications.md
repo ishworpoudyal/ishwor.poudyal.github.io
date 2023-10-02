@@ -6,11 +6,11 @@ mathjax: true
 
 {% include profmenu.html %}
 
-**[13]**  J. Plumb, **<ins>I. Poudyal<\ins>**, R. L. Dally, S. Daly, S.D. Wilson, Z. Islam  [Dark field X-ray microscopy below liquid-helium temperature: The case of NaMnO2.] ([https://journals.iucr.org/m/issues/2021/06/00/mf5055/index.html](https://www.nature.com/articles/s41524-023-01022-7)) <em>Materials Characterization</em> **204, 113174.**
+**[13]**  J. Plumb, **<ins>I. Poudyal</ins>**, R. L. Dally, S. Daly, S.D. Wilson, Z. Islam  [Dark field X-ray microscopy below liquid-helium temperature: The case of NaMnO2.] ([https://journals.iucr.org/m/issues/2021/06/00/mf5055/index.html](https://www.nature.com/articles/s41524-023-01022-7)) <em>Materials Characterization</em> **204, 113174.**
 
 <br>
 
-**[12]**  T.N. Malla, K> Zielinski, L. Aldama, S. Bajt, D. Feliz, B. Hayes, M. Hunter, C. Kupitz, S. Lisova, J. Knoska, J.M. Martin-Garcia, V. Mariani, S. Pandey, **<ins>I. Poudyal<\ins>**, R.G. Sierra, A. Tolstikova, O. Yefanov, C.H. Yoon, A. Ourmazd, P. Fromme, P. Schwander, A. Barty, H. N. Chapman, E. A. Stojkovic, A. Batyuk, S. Boutet, G.N. Phillips Jr., L. Pollack & M. Schmidt(2023) [Heterogeneity in M. tuberculosis β-lactamase inhibition by Sulbactam.]([https://www.nature.com/articles/s41467-023-41246-1)]) <em>Nature Communications</em> **14.1, 5507.**
+**[12]**  T.N. Malla, K> Zielinski, L. Aldama, S. Bajt, D. Feliz, B. Hayes, M. Hunter, C. Kupitz, S. Lisova, J. Knoska, J.M. Martin-Garcia, V. Mariani, S. Pandey, **<ins>I. Poudyal</ins>**, R.G. Sierra, A. Tolstikova, O. Yefanov, C.H. Yoon, A. Ourmazd, P. Fromme, P. Schwander, A. Barty, H. N. Chapman, E. A. Stojkovic, A. Batyuk, S. Boutet, G.N. Phillips Jr., L. Pollack & M. Schmidt(2023) [Heterogeneity in M. tuberculosis β-lactamase inhibition by Sulbactam.]([https://www.nature.com/articles/s41467-023-41246-1)]) <em>Nature Communications</em> **14.1, 5507.**
 
 <br>
 
