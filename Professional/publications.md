@@ -6,7 +6,7 @@ mathjax: true
 
 {% include profmenu.html %}
 
-**[13]**  J. Plumb, **<ins>I. Poudyal</ins>**, R. L. Dally, S. Daly, S.D. Wilson, Z. Islam  [Dark field X-ray microscopy below liquid-helium temperature: The case of NaMnO2.](https://www.sciencedirect.com/science/article/abs/pii/S1044580323005338) <em>Materials Characterization</em> **204, 113174.**
+**[13]**  J. Plumb, **<ins>I. Poudyal</ins>**, R. L. Dally, S. Daly, S.D. Wilson, Z. Islam(2023)  [Dark field X-ray microscopy below liquid-helium temperature: The case of NaMnO2.](https://www.sciencedirect.com/science/article/abs/pii/S1044580323005338) <em>Materials Characterization</em> **204, 113174.**
 
 <br>
 
