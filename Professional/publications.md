@@ -6,6 +6,18 @@ mathjax: true
 
 {% include profmenu.html %}
 
+**[13]**  J. Plumb, **<ins>I. Poudyal<\ins>**, R. L. Dally, S. Daly, S.D. Wilson, Z. Islam  [Dark field X-ray microscopy below liquid-helium temperature: The case of NaMnO2.] ([https://journals.iucr.org/m/issues/2021/06/00/mf5055/index.html](https://www.nature.com/articles/s41524-023-01022-7)) <em>Materials Characterization</em> **204, 113174.**
+
+<br>
+
+**[12]**  T.N. Malla, K> Zielinski, L. Aldama, S. Bajt, D. Feliz, B. Hayes, M. Hunter, C. Kupitz, S. Lisova, J. Knoska, J.M. Martin-Garcia, V. Mariani, S. Pandey, **<ins>I. Poudyal<\ins>**, R.G. Sierra, A. Tolstikova, O. Yefanov, C.H. Yoon, A. Ourmazd, P. Fromme, P. Schwander, A. Barty, H. N. Chapman, E. A. Stojkovic, A. Batyuk, S. Boutet, G.N. Phillips Jr., L. Pollack & M. Schmidt(2023) [Heterogeneity in M. tuberculosis β-lactamase inhibition by Sulbactam.]([https://www.nature.com/articles/s41467-023-41246-1)]) <em>Nature Communications</em> **14.1, 5507.**
+
+<br>
+
+**[11]**   S. Maddali, T.D. Frazer, N. Delegan, K.J. Harmon, S.E. Sullivan, M. Allain, W. Cha, A. Dibos, **<ins>I. Poudyal</ins>**, S. Kandel, Y. SG Nashed, F.J. Heremans, H. You, Y. Cao, S.O. Hruszkewycz(2023) [Concurrent multi-peak Bragg coherent x-ray diffraction imaging of 3D nanocrystal lattice displacement via global optimization.]([https://www.nature.com/articles/s41524-023-01022-7]) <em>NPJ Computational Materials</em> **9.1, 77.**
+
+<br>
+
 **[10]**   S. Pandey, G. Calvey, A.M. Katz, T.N. Malla, F.H.M Koua, J.M. Martin-Garcia, **<ins>I. Poudyal</ins>**, J-H Yang, M. Vakili, O. Yefanov, K.A. Zielinski, S. Bajt, S. Awel, K. Doerner, M. Frank, L. Gelisio, R. Jernigan, H. Kirkwood, M. Kloos, J. Koliyadu, V. Mariani, M.D. Miller, G. Mills, G. Nelson, J.L.Olmos Jr, A. Sadri, T. Sato, A. Tolstikova, W. Xu, A. Ourmazd, J.H.C Spence, P.Schwander, A. Barty, H.N. Chapman, P. Fromme, A.P. Mancuso, G.N. Phillips Jr, R. Bean, L. Pollack, M. Schmidt (2021) [Observation of substrate diffusion and ligand binding in enzyme crystals using high-repetition-rate mix-and-inject serial crystallography.](https://journals.iucr.org/m/issues/2021/06/00/mf5055/index.html) <em>IUCRJ</em> **8, 6, 878-895.**
 
 <br>
