@@ -27,7 +27,7 @@ Institute: [Central Department of Physics,](https://tucdp.edu.np/) Tribhuvan Uni
 <br>
 Supervisor: Prof. Narayan Adhikari
 <br>
-Dissertation: <Molecular Dynamics Study of Diffusion of Carbon Monoxide in Water at Different Temperatures>(https://github.com/ishworpoudyal/ishworpoudyal.github.io/blob/master/Professional/ishwor_thesis.pdf)
+Dissertation: [Molecular Dynamics Study of Diffusion of Carbon Monoxide in Water at Different Temperatures](https://github.com/ishworpoudyal/ishworpoudyal.github.io/blob/master/Professional/ishwor_thesis.pdf)
 <br>
 
 ### Bachelor's degree (B.S.) (2006 - 2010 )
