@@ -21,7 +21,7 @@ mathjax: true
    - Department of Physics,  **(August 2015 - December 2020)**
 
   
-*Graduate Teaching Assistant, University of Wisconsin-Milwaukee <br>
+* Graduate Teaching Assistant, University of Wisconsin-Milwaukee <br>
   - Department of Physics, **(August 2014 - September 2020)**
 
   
