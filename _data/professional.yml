@@ -1,6 +1,6 @@
-- name: CV 
-  link: /Professional/cv
 - name: Education 
   link: /Professional/education
+- name: Experience 
+  link: /Professional/Experience
 - name: Publications
   link: /Professional/publications
