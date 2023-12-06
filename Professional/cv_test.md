@@ -7,21 +7,41 @@ mathjax: true
 {% include profmenu.html %}
 
 
-# Ishwor Poudyal	
+### Ishwor Poudyal	
 **Email:** ishwor_p_19@hotmail.com
 
+### Summary
+Physicist specializing in lensless and lens-based X-ray imaging. 
 
-## Education
+### Education
 
-PhD in Physics                                                                                      	**2014-2020**
-	<em>University of Wisconsin-Milwaukee (UWM), Milwaukee, WI USA</em>
-MSc in Physics (Solid State Physics)				   					**2010-2013**
-	<em>Central Department of Physics, Tribhuvan University, Kathmandu, Nepal</em>
-BSc in Physics (Major: Physics, Minor: Mathematics, Statistics)	     					**2007-2010**
-	<em>Trichandra Multiple Campus, Tribhuvan University, Kathmandu, Nepal</em>
+## Doctoral Degree (Ph.D.) in Physics (2014 - 2020)
+Institute: [University of Wisconsin-Milwaukee,](https://uwm.edu/) Milwaukee, WI, USA
+<br>
+Supervisors: Prof. Marius Schmidt & Prof. Peter Schwander
+<br>
+Dissertation: [Macromolecular Structure Determination at X-Ray Free Electron Lasers from Single-Particle Imaging  to Time-Resolved X-Ray Crystallography](https://dc.uwm.edu/cgi/viewcontent.cgi?article=3585&context=etd)
+<br>
+## Master Degree (M.S.) in Physics (2010 - 2013)
+Institute: [Central Department of Physics,](https://tucdp.edu.np/) Tribhuvan University, Kirtipur, Nepal
+<br>
+Supervisor: Prof. Narayan Adhikari
+<br>
+Dissertation: [Molecular Dynamics Study of Diffusion of Carbon Monoxide in Water at Different Temperatures](https://github.com/ishworpoudyal/ishworpoudyal.github.io/blob/master/Professional/ishwor_thesis.pdf)
+<br>
 
+## Bachelor's degree (B.S.) (2006 - 2010 )
+Institute: [Tri-chandra Multiple Campus,](https://trichandracampus.edu.np/) Tribhuvan University, Kathmandu, Nepal
+<br>
+Major: Physics, Minor: Statistics, Mathematics
+<br>
 
-## Experience
+## High School (+2 College) (2003 - 2005 )
+
+Institute: [National School of Sciences,](https://nist.edu.np/) Lainchour, Nepal
+<br>
+
+### Experience
 
 ### TD Mod and Integration Yield Engineer | Intel Corporation 	       	 				**Dec. 2022 –current**
 
@@ -43,7 +63,7 @@ BSc in Physics (Major: Physics, Minor: Mathematics, Statistics)	     					**2007
     <li> Extensive experience in crystallographic and single-particle diffraction data analysis.<\li>
     <li> My work focuses on data analysis of single particle imaging from biological entities. Part of my project was related to single-particle diffraction pattern simulation, merging of diffraction patterns into a 3D diffraction volume and use iterative phasing algorithm to reconstruct the electron density. We have also applied manifold embedding based on the diffusion map algorithm to sort single hits from the XFELs dataset.<\li>
     <li> Experience in analyzing and interpreting large data sets to develop data-driven recommendations. <\li>
-    <li> Published results in peer-reviewed journal papers and presented research at international conferences. Poster presentation at funding agency annual 	review meeting.<\li>
+    <li> Published results in peer-reviewed journal papers and presented research at international conferences. Poster presentation at funding agency annual review meeting.<\li>
 <\ol>
 
 ### Teaching Assistant | UWM						           		 	**August 2014 – May 2020**
@@ -69,4 +89,9 @@ BSc in Physics (Major: Physics, Minor: Mathematics, Statistics)	     					**2007
     <li> Programming Language: Use Python, Matlab, Mathematica, and Bash script extensively for research related work and have a working knowledge on Java 	and C++.<\li>
     <li> Software: Crystallographic Softwares (CCP4, Coot, Phenix, Chimera), GROMACS.<\li>
 
-
+<img align="left" width="100" height="100" src="/Images/uwmlogo.png">
+<br clear="left"/> 
+<img align="middle" width="100" height="100" src="/Images/TU.png">
+<br clear="middle"/>
+<img align="right" width="100" height="100" src="/Images/NIST.png">
+<br clear="right"/>
