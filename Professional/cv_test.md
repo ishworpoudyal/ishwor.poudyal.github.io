@@ -7,22 +7,23 @@ mathjax: true
 {% include profmenu.html %}
 
 
-### Ishwor Poudyal	
+## Ishwor Poudyal	
 **Email:** ishwor_p_19@hotmail.com
 
-### Summary
+## Summary
 Physicist specializing in lensless and lens-based X-ray imaging. 
 
-### Education
+## Education
 
-## Doctoral Degree (Ph.D.) in Physics (2014 - 2020)
+### Doctoral Degree (Ph.D.) in Physics (2014 - 2020)
 Institute: [University of Wisconsin-Milwaukee,](https://uwm.edu/) Milwaukee, WI, USA
 <br>
 Supervisors: Prof. Marius Schmidt & Prof. Peter Schwander
 <br>
 Dissertation: [Macromolecular Structure Determination at X-Ray Free Electron Lasers from Single-Particle Imaging  to Time-Resolved X-Ray Crystallography](https://dc.uwm.edu/cgi/viewcontent.cgi?article=3585&context=etd)
 <br>
-## Master Degree (M.S.) in Physics (2010 - 2013)
+
+### Master Degree (M.S.) in Physics (2010 - 2013)
 Institute: [Central Department of Physics,](https://tucdp.edu.np/) Tribhuvan University, Kirtipur, Nepal
 <br>
 Supervisor: Prof. Narayan Adhikari
@@ -30,18 +31,20 @@ Supervisor: Prof. Narayan Adhikari
 Dissertation: [Molecular Dynamics Study of Diffusion of Carbon Monoxide in Water at Different Temperatures](https://github.com/ishworpoudyal/ishworpoudyal.github.io/blob/master/Professional/ishwor_thesis.pdf)
 <br>
 
-## Bachelor's degree (B.S.) (2006 - 2010 )
+### Bachelor's degree (B.S.) (2006 - 2010 )
 Institute: [Tri-chandra Multiple Campus,](https://trichandracampus.edu.np/) Tribhuvan University, Kathmandu, Nepal
 <br>
 Major: Physics, Minor: Statistics, Mathematics
 <br>
 
-## High School (+2 College) (2003 - 2005 )
+### High School (+2 College) (2003 - 2005 )
 
 Institute: [National School of Sciences,](https://nist.edu.np/) Lainchour, Nepal
 <br>
 
-### Experience
+<br>
+
+## Experience
 
 * Module Development Engineer, Intel Corporation <br>
   - Technology and Manufacturing Group. **(December 2022 - Present)**
@@ -62,6 +65,7 @@ Institute: [National School of Sciences,](https://nist.edu.np/) Lainchour, Nepal
 * Graduate Teaching Assistant, University of Wisconsin-Milwaukee <br>
   - Department of Physics, **(August 2014 - September 2020)**
 
+<br>
   
 ### Awards
 
