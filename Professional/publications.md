@@ -7,11 +7,11 @@ mathjax: true
 {% include profmenu.html %}
 
 
-**[14]**  P. Salev, E. Kisiel and D. Sasaki, B. Gunn, W. He, M. Feng, J. Li, N. Tamura, **<ins> I. Poudyal</ins>**, Z. Islam, Y. Takamura, A. Frano, I. K. Schuller (2024) [Local strain inhomogeneities during electrical triggering of a metal–insulator transition revealed by X-ray microscopy.](https://www.pnas.org/doi/abs/10.1073/pnas.2317944121) <em>Proceedings of the National Academy of Sciences</em> **121(34):e2317944121.**
+**[15]**  P. Salev, E. Kisiel and D. Sasaki, B. Gunn, W. He, M. Feng, J. Li, N. Tamura, **<ins> I. Poudyal</ins>**, Z. Islam, Y. Takamura, A. Frano, I. K. Schuller (2024) [Local strain inhomogeneities during electrical triggering of a metal–insulator transition revealed by X-ray microscopy.](https://www.pnas.org/doi/abs/10.1073/pnas.2317944121) <em>Proceedings of the National Academy of Sciences</em> **121(34):e2317944121.**
 
 <br>
 
-**[13]**  E. Kisiel, **<ins> I. Poudyal</ins>**, P. Kenesei, M. Engbretson, A. Last, R. Basak, I. Zaluzhnyy, U. Goteti, R. Dynes, A. Miceli, A. Frano, and Z. Islam (2024) [Direct detection system for full-field nanoscale X-ray diffraction-contrast imaging.](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-16-27682) <em>Optics Express</em> **32(16):27682-27689.**
+**[14]**  E. Kisiel, **<ins> I. Poudyal</ins>**, P. Kenesei, M. Engbretson, A. Last, R. Basak, I. Zaluzhnyy, U. Goteti, R. Dynes, A. Miceli, A. Frano, and Z. Islam (2024) [Direct detection system for full-field nanoscale X-ray diffraction-contrast imaging.](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-16-27682) <em>Optics Express</em> **32(16):27682-27689.**
 
 <br>
 
