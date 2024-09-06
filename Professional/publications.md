@@ -6,11 +6,20 @@ mathjax: true
 
 {% include profmenu.html %}
 
+
+**[14]**  P. Salev, E. Kisiel and D. Sasaki, B. Gunn, W. He, M. Feng, J. Li, N. Tamura, **<ins> I. Poudyal</ins>**, Z. Islam, Y. Takamura, A. Frano, I. K. Schuller (2024) [Local strain inhomogeneities during electrical triggering of a metal–insulator transition revealed by X-ray microscopy.](https://www.pnas.org/doi/abs/10.1073/pnas.2317944121) <em>Proceedings of the National Academy of Sciences</em> **121(34):e2317944121.**
+
+<br>
+
+**[13]**  E. Kisiel, **<ins> I. Poudyal</ins>**, P. Kenesei, M. Engbretson, A. Last, R. Basak, I. Zaluzhnyy, U. Goteti, R. Dynes, A. Miceli, A. Frano, and Z. Islam (2024) [Direct detection system for full-field nanoscale X-ray diffraction-contrast imaging.](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-16-27682) <em>Optics Express</em> **32(16):27682-27689.**
+
+<br>
+
 **[13]**  J. Plumb, **<ins>I. Poudyal</ins>**, R. L. Dally, S. Daly, S.D. Wilson, Z. Islam(2023)  [Dark field X-ray microscopy below liquid-helium temperature: The case of NaMnO2.](https://www.sciencedirect.com/science/article/abs/pii/S1044580323005338) <em>Materials Characterization</em> **204, 113174.**
 
 <br>
 
-**[12]**  T.N. Malla, K> Zielinski, L. Aldama, S. Bajt, D. Feliz, B. Hayes, M. Hunter, C. Kupitz, S. Lisova, J. Knoska, J.M. Martin-Garcia, V. Mariani, S. Pandey, **<ins>I. Poudyal</ins>**, R.G. Sierra, A. Tolstikova, O. Yefanov, C.H. Yoon, A. Ourmazd, P. Fromme, P. Schwander, A. Barty, H. N. Chapman, E. A. Stojkovic, A. Batyuk, S. Boutet, G.N. Phillips Jr., L. Pollack & M. Schmidt(2023) [Heterogeneity in M. tuberculosis β-lactamase inhibition by Sulbactam.](https://www.nature.com/articles/s41467-023-41246-1) <em>Nature Communications</em> **14.1, 5507.**
+**[12]**  T.N. Malla, K. Zielinski, L. Aldama, S. Bajt, D. Feliz, B. Hayes, M. Hunter, C. Kupitz, S. Lisova, J. Knoska, J.M. Martin-Garcia, V. Mariani, S. Pandey, **<ins>I. Poudyal</ins>**, R.G. Sierra, A. Tolstikova, O. Yefanov, C.H. Yoon, A. Ourmazd, P. Fromme, P. Schwander, A. Barty, H. N. Chapman, E. A. Stojkovic, A. Batyuk, S. Boutet, G.N. Phillips Jr., L. Pollack & M. Schmidt(2023) [Heterogeneity in M. tuberculosis β-lactamase inhibition by Sulbactam.](https://www.nature.com/articles/s41467-023-41246-1) <em>Nature Communications</em> **14.1, 5507.**
 
 <br>
 
