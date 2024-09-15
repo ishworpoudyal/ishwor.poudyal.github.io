@@ -1,6 +1,7 @@
 ---
-layout: page
-title: ""
+title:  "Gazal 1"
+date: ""
+category: "Gazal"
 ---
 
 
