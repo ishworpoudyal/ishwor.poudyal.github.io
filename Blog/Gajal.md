@@ -6,7 +6,7 @@ mathjax: true
 
 {% include blogmenu.html %}
 
-[गजल_1(2010)](/Blog/Gajal/gajal1.mdx)
+[गजल_1(2010)](/Blog/Gajal/gajal1.md)
 <br>
 [गजल_2(2011)](/Blog/Gajal/gajal2.txt)
 <br>
