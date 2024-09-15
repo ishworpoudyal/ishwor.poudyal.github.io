@@ -10,5 +10,5 @@ mathjax: true
 
 # Hello! 
 
-Welcome, You have reached the personal website of Ishwor Poudyal.
+Welcome, You have reached the personal website of Ishwor Poudyal. This website is a place where  I share my professional journey, insights, personal projects, and blogs on this website. Feel free to explore, and thanks for visiting. 
   
